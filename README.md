@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer Benz, steig ein, wir jagen durch die Nacht
+> Das Echo deiner Liebe hat mich um den Verstand gebracht
+> Spür' den Bass in der Brust, Baby, zieh dich zu mir
+> Dein Blick ist zu gefährlich, ich verliere mich in dir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
